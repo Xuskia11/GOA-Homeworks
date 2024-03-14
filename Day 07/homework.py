@@ -6,7 +6,7 @@ num1 = 1
 while num1 <= 20:
     print(num1)
     num1 = num1 + 1
-#6) for ციკლში გამოვიყყენეთ რაიმე string და გავტესტეთ როგორ მუშაობს იგი 
+# for ციკლში გამოვიყყენეთ რაიმე string და გავტესტეთ როგორ მუშაობს იგი 
 counter = 1
 summation = 0
 while counter <= 5:
@@ -16,6 +16,6 @@ while counter <= 5:
 print(summation)
 
 
-#6) for ციკლში გამოვიყენეთ რაიმე string და გავტესტტეთ როგორ მუშაობს იგი
+# for ციკლში გამოვიყენეთ რაიმე string და გავტესტტეთ როგორ მუშაობს იგი
 for i in "car": 
     print(i)
