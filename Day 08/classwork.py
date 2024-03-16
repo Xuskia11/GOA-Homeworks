@@ -1,30 +1,30 @@
-# i = 2
-# while i < 40:
-#     print(i)
-#     i = i + 2
+i = 2
+while i < 40:
+    print(i)
+    i = i + 2
 
 
 
-# result = 0
-# i = 0
-# while i <= 5:
-#     result = result + i
-#     i = i + 1
-#     print(result)
+result = 0
+i = 0
+while i <= 5:
+    result = result + i
+    i = i + 1
+    print(result)
 
 
 
 
-# for i in range( 0,10,2):
-#     print(i)
+for i in range( 0,10,2):
+    print(i)
 
 
 
-# password = "xuskia1102"
-# guess = input()
-# while guess != password:
-#     guess = input()
-# print("acces granted")
+password = "xuskia1102"
+guess = input()
+while guess != password:
+    guess = input()
+print("acces granted")
 
 
 
