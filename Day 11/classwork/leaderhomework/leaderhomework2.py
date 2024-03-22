@@ -1,5 +1,5 @@
 #Write a program that prompts the user for numbers continuously until they enter 0.
-summation = 0
+summation = 0 
 
 while True:
     num = int(input("please enter random number: "))
